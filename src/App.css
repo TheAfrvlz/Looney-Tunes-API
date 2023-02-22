@@ -1,0 +1,15 @@
+.Title{
+  text-align: center;
+  color:#Fff;
+  font-size: 65px;
+  font-family: Looney-Tunes-FF;
+}
+
+.Card-Box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 23px;
+}
